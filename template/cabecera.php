@@ -20,6 +20,9 @@
                 <a class="nav-link" href="nosotros.php">Nosotros</a>
             </li>
             <li class="nav-item">
+                <a class="nav-link" href="galeria.php">Galeria</a>
+            </li>
+            <li class="nav-item">
                 <a class="nav-link" href="#">Inicio Sesion</a>
             </li>
             
